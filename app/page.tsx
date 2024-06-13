@@ -11,14 +11,14 @@ export default function Page() {
               Hi <span className="emojione--waving-hand wave-hand ml-2"></span>
             </h1>
             <h2 className="text-xl font-semibold tracking-tighter mt-2">
-               <span className='gradient-text typing-animation'> I'm Shambhavi Sudarsan.</span>
+              <span className='gradient-text typing-animation'> I'm Shambhavi Sudarsan.</span>
             </h2>
           </div>
           <div className="mt-8 md:mt-0 md:ml-8">
             <div className="border-gradient w-36 h-36 rounded-full p-1">
               <div className="relative w-full h-full rounded-full overflow-hidden">
                 <Image
-                  src="/images/image.jpg" // Ensure the correct path is used
+                  src="/personal-portfolio2/images/image.jpg" // Updated path
                   alt="Shambhavi"
                   fill
                   sizes="(max-width: 144px) 100vw, 144px"

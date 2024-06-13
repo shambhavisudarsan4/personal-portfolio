@@ -2,7 +2,7 @@
 import Image from 'next/image';
 
 const images = [
-  { src: '/images/IMG_9466.jpg', alt: 'Image 1' },
+  { src: '/personal-portfolio2/images/IMG_9466.jpg', alt: 'Image 1' },
 ];
 
 export default function Carousel() {
