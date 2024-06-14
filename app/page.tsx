@@ -8,7 +8,7 @@ export default function Page() {
         <div className="flex flex-col items-center md:flex-row md:justify-between md:items-center">
           <div className="text-center md:text-left mb-8 md:mb-0">
             <h1 className="text-2xl font-semibold tracking-tighter flex items-center justify-center md:justify-start mb-4">
-              Hi <span className="emojione--waving-hand wave-hand ml-2"></span>
+              Hi! <span className="emojione--waving-hand wave-hand ml-2"></span>
             </h1>
             <h2 className="text-xl font-semibold tracking-tighter mt-2">
               <span className='gradient-text typing-animation'> I'm Shambhavi Sudarsan.</span>
