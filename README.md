@@ -1,6 +1,6 @@
-# Portfolio Blog Starter
+# Shambhavi Sudarsan's Portfolio
 
-This is a porfolio site template complete with a blog. Includes:
+This is my personal portfolio site template complete with a blog. It includes:
 
 - MDX and Markdown support
 - Optimized for SEO (sitemap, robots, JSON-LD schema)
@@ -11,9 +11,13 @@ This is a porfolio site template complete with a blog. Includes:
 - Vercel Speed Insights / Web Analytics
 - Geist font
 
+## Note
+
+This project is derived from [Portfolio Blog Starter](https://portfolio-blog-starter.vercel.app/blog). Please do not copy the portfolio directly from my website. If you find this template useful and would like to use it, please give proper credit.
+
 ## Demo
 
-https://portfolio-blog-starter.vercel.app
+[View the Demo](https://portfolio-blog-starter.vercel.app)
 
 ## How to Use
 
@@ -31,12 +35,3 @@ Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packag
 
 ```bash
 pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
-```
-
-Then, run Next.js in development mode:
-
-```bash
-pnpm dev
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
