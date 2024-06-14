@@ -18,7 +18,7 @@ export default function Page() {
             <div className="border-gradient w-36 h-36 rounded-full p-1">
               <div className="relative w-full h-full rounded-full overflow-hidden">
                 <Image
-                  src="/personal-portfolio2/images/image.jpg" // Updated path
+                  src="/images/image.jpg" // Updated path
                   alt="Shambhavi"
                   fill
                   sizes="(max-width: 144px) 100vw, 144px"
